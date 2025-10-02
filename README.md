@@ -1,57 +1,36 @@
-<h2 align="left">Hi 👋! My name is wogood and I'm a flutter developer, from Egypt</h2>
+<h1 align="center">Hi 👋, I'm Wogood</h1>
+<h3 align="center">🚀 Flutter Developer | Mobile App Enthusiast</h3>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wogoodwael&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wogoodwael&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### 👨‍💻 About Me
+- 💼 I’m a **Flutter Developer** passionate about building scalable and user-friendly apps.  
+- 💬 Ask me about **Flutter, Dart, and Mobile Development**.  
+- 📫 How to reach me: **wogoodwael@gmail.com**
 
-###
+---
 
-<br clear="both">
+### 🛠 Tech Toolbox
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,html,css,python,mongodb,git,github" />
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-</div>
+---
 
-###
+### 📊 My GitHub Journey
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wogoodwael&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wogoodwael&theme=tokyonight" height="160"/>
+</p>
 
-<div align="left">
-  <a href="https://www.youtube.com/channel/UC0Kb3oz0B-YpIGDEFXdexNQ" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="wogoodwael@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/wogood-wael-695209241/overlay/background-image/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.behance.net/wogoodwael" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wogoodwael&theme=tokyo-night" />
+</p>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/wogoodwael/wogoodwael/output/snake.svg" alt="Snake animation" />
-
-###
+### 🌍 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/wogood-wael-695209241/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:wogoodwael@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&style=for-the-badge" /></a>
+</p>
