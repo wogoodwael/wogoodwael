@@ -19,12 +19,12 @@
 
 ### 📊 My GitHub Journey
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wogood wael&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wogood wael&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wogoodwael&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wogoodwael&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wogood wael&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wogoodwael&theme=tokyo-night" />
 </p>
 
 ---
